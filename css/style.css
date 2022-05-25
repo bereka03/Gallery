@@ -17,6 +17,9 @@ body {
     margin: 0 auto;
     overflow: hidden;
 }
+.header-inner {
+    margin-top: 41px;
+}
 .info-wrapper {
     display: flex;
     justify-content: center;
